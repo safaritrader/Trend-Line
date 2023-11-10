@@ -1,6 +1,6 @@
 ## Trend Line Drawer!
 an specific Trend Line Draw for financial Markets in python
-#Installation
+## Installation
 Simple! Clone or download it. install requ and pass it a dataframe like example in main file
 ## How its Work?
 it has a lot options like degree limit on sides. check validation of trend define by you, and you can see al detailes on tags
