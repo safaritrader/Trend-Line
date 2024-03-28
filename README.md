@@ -40,5 +40,5 @@ _,_,_,_=draw_trendline(model,df['close'],df['high'],df['low'],df['open'],df.inde
 
 ## Contact
 you can email me or text me :
-email : montazereoo2@gmail.com
+email : info@global-fxs.com
 telegram : +989137070309
